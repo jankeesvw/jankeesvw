@@ -16,6 +16,6 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 10 | [Text Transform](https://github.com/jankeesvw/omarchy-text-transform) | Rewrite, translate or fix text with the coding agent Omarchy already runs | [jankeesvw.text-transform](https://plugins.omarchy.org/plugin.html?id=jankeesvw.text-transform) |
 | 11 | [Bambu Lab](https://github.com/jankeesvw/omarchy-bambu-lab) | Chamber camera, AMS spools, progress and stop, over your own network | [jankeesvw.bambu-lab](https://plugins.omarchy.org/plugin.html?id=jankeesvw.bambu-lab) |
 | 12 | [GitHub Build Monitor](https://github.com/jankeesvw/omarchy-github-build-monitor) | Whether the branch you deploy from is green right now | submitted |
-| 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it |  |
+| 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | submitted |
 
 There is also [a light theme](https://github.com/jankeesvw/omarchy-wbso-ai-theme) built from the WBSO.ai brand colours.
