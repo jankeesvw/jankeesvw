@@ -18,4 +18,10 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 12 | [GitHub Build Monitor](https://github.com/jankeesvw/omarchy-github-build-monitor) | Whether the branch you deploy from is green right now | submitted |
 | 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | submitted |
 
-There is also [a light theme](https://github.com/jankeesvw/omarchy-wbso-ai-theme) built from the WBSO.ai brand colours.
+### Omarchy themes
+
+Themes install differently to plugins, with `omarchy theme install <repo url>`, and then `omarchy theme set` to switch to one later.
+
+| # | Theme | What it looks like |
+| --- | --- | --- |
+| 1 | [WBSO.ai](https://github.com/jankeesvw/omarchy-wbso-ai-theme) | Light: white surfaces, a deep blue accent, amber highlights and navy text |
