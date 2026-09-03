@@ -17,6 +17,7 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 11 | [Bambu Lab](https://github.com/jankeesvw/omarchy-bambu-lab) | Chamber camera, AMS spools, progress and stop, over your own network | [jankeesvw.bambu-lab](https://plugins.omarchy.org/plugin.html?id=jankeesvw.bambu-lab) |
 | 12 | [GitHub Build Monitor](https://github.com/jankeesvw/omarchy-github-build-monitor) | Whether the branch you deploy from is green right now | [jankeesvw.github-build-monitor](https://plugins.omarchy.org/plugin.html?id=jankeesvw.github-build-monitor) |
 | 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | submitted |
+| 14 | [Stripe MRR](https://github.com/jankeesvw/omarchy-stripe-mrr) | Your recurring revenue in the bar, latest payments in the panel, optional gold ingot | submitted |
 
 ### Omarchy themes
 
