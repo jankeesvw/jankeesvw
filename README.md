@@ -18,6 +18,7 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 12 | [GitHub Build Monitor](https://github.com/jankeesvw/omarchy-github-build-monitor) | Whether the branch you deploy from is green right now | [jankeesvw.github-build-monitor](https://plugins.omarchy.org/plugin.html?id=jankeesvw.github-build-monitor) |
 | 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | submitted |
 | 14 | [Stripe MRR](https://github.com/jankeesvw/omarchy-stripe-mrr) | Your recurring revenue in the bar, latest payments in the panel, optional gold ingot | submitted |
+| 15 | [Screen Time](https://github.com/jankeesvw/omarchy-screen-time) | Screen time for kids, as a budget that locks at zero or as an agreement with no locks at all | submitted |
 
 ### Omarchy themes
 
