@@ -16,9 +16,11 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 10 | [Text Transform](https://github.com/jankeesvw/omarchy-text-transform) | Rewrite, translate or fix text with the coding agent Omarchy already runs | [jankeesvw.text-transform](https://plugins.omarchy.org/plugin.html?id=jankeesvw.text-transform) |
 | 11 | [Bambu Lab](https://github.com/jankeesvw/omarchy-bambu-lab) | Chamber camera, AMS spools, progress and stop, over your own network | [jankeesvw.bambu-lab](https://plugins.omarchy.org/plugin.html?id=jankeesvw.bambu-lab) |
 | 12 | [GitHub Build Monitor](https://github.com/jankeesvw/omarchy-github-build-monitor) | Whether the branch you deploy from is green right now | [jankeesvw.github-build-monitor](https://plugins.omarchy.org/plugin.html?id=jankeesvw.github-build-monitor) |
-| 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | submitted |
-| 14 | [Stripe MRR](https://github.com/jankeesvw/omarchy-stripe-mrr) | Your recurring revenue in the bar, latest payments in the panel, optional gold ingot | submitted |
+| 13 | [Meetings](https://github.com/jankeesvw/omarchy-meetings) | Your day as a column, with a line where you are in it | [jankeesvw.meetings](https://plugins.omarchy.org/plugin.html?id=jankeesvw.meetings) |
+| 14 | [Stripe MRR](https://github.com/jankeesvw/omarchy-stripe-mrr) | Your recurring revenue in the bar, latest payments in the panel, optional gold ingot | [jankeesvw.stripe-mrr](https://plugins.omarchy.org/plugin.html?id=jankeesvw.stripe-mrr) |
 | 15 | [Screen Time](https://github.com/jankeesvw/omarchy-screen-time) | Screen time for kids, as a budget that locks at zero or as an agreement with no locks at all | submitted |
+| 16 | [Nag](https://github.com/jankeesvw/omarchy-nag) | Set an alarm by typing one line, and see what it understood before you commit | [jankeesvw.nag](https://plugins.omarchy.org/plugin.html?id=jankeesvw.nag) |
+| 17 | [Omableep](https://github.com/jankeesvw/omableep) | Retro soundboard: chip sounds synthesised on the spot, machine sounds from real recordings | submitted |
 
 ### Omarchy themes
 
