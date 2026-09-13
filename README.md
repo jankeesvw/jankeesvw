@@ -20,7 +20,8 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 14 | [Stripe MRR](https://github.com/jankeesvw/omarchy-stripe-mrr) | Your recurring revenue in the bar, latest payments in the panel, optional gold ingot | [jankeesvw.stripe-mrr](https://plugins.omarchy.org/plugin.html?id=jankeesvw.stripe-mrr) |
 | 15 | [Screen Time](https://github.com/jankeesvw/omarchy-screen-time) | Screen time for kids, as a budget that locks at zero or as an agreement with no locks at all | submitted |
 | 16 | [Nag](https://github.com/jankeesvw/omarchy-nag) | Set an alarm by typing one line, and see what it understood before you commit | [jankeesvw.nag](https://plugins.omarchy.org/plugin.html?id=jankeesvw.nag) |
-| 17 | [Omableep](https://github.com/jankeesvw/omableep) | Retro soundboard: chip sounds synthesised on the spot, machine sounds from real recordings | submitted |
+| 17 | [Omableep](https://github.com/jankeesvw/omableep) | Retro soundboard: chip sounds synthesised on the spot, machine sounds from real recordings | [jankeesvw.omableep](https://plugins.omarchy.org/plugin.html?id=jankeesvw.omableep) |
+| 18 | [Clippy](https://github.com/jankeesvw/omarchy-clippy) | The paperclip is back: follows your mouse, hands out tips from the Omarchy manual, and tells you when your agent is done | submitted |
 
 ### Omarchy themes
 
