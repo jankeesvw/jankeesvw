@@ -21,7 +21,7 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 15 | [Screen Time](https://github.com/jankeesvw/omarchy-screen-time) | Screen time for kids, as a budget that locks at zero or as an agreement with no locks at all | submitted |
 | 16 | [Nag](https://github.com/jankeesvw/omarchy-nag) | Set an alarm by typing one line, and see what it understood before you commit | [jankeesvw.nag](https://plugins.omarchy.org/plugin.html?id=jankeesvw.nag) |
 | 17 | [Omableep](https://github.com/jankeesvw/omableep) | Retro soundboard: chip sounds synthesised on the spot, machine sounds from real recordings | [jankeesvw.omableep](https://plugins.omarchy.org/plugin.html?id=jankeesvw.omableep) |
-| 18 | [Clippy](https://github.com/jankeesvw/omarchy-clippy) | The paperclip is back: follows your mouse, hands out tips from the Omarchy manual, and tells you when your agent is done | submitted |
+| 18 | [Clippy](https://github.com/jankeesvw/omarchy-clippy) | The paperclip is back: follows your mouse, hands out tips from the Omarchy manual, and tells you when your agent is done | [jankeesvw.clippy](https://plugins.omarchy.org/plugin.html?id=jankeesvw.clippy) |
 
 ### Omarchy themes
 
@@ -30,3 +30,4 @@ Themes install differently to plugins, with `omarchy theme install <repo url>`, 
 | # | Theme | What it looks like |
 | --- | --- | --- |
 | 1 | [WBSO.ai](https://github.com/jankeesvw/omarchy-wbso-ai-theme) | Light: white surfaces, a deep blue accent, amber highlights and navy text |
+| 2 | [Phosphor](https://github.com/jankeesvw/omarchy-phosphor-theme) | MS-DOS blue with mint, built around an illustration by Timo Kuilder |
