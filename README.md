@@ -22,6 +22,7 @@ Small things for the [Omarchy](https://omarchy.org) bar, mostly built because I 
 | 16 | [Nag](https://github.com/jankeesvw/omarchy-nag) | Set an alarm by typing one line, and see what it understood before you commit | [jankeesvw.nag](https://plugins.omarchy.org/plugin.html?id=jankeesvw.nag) |
 | 17 | [Omableep](https://github.com/jankeesvw/omableep) | Retro soundboard: chip sounds synthesised on the spot, machine sounds from real recordings | [jankeesvw.omableep](https://plugins.omarchy.org/plugin.html?id=jankeesvw.omableep) |
 | 18 | [Clippy](https://github.com/jankeesvw/omarchy-clippy) | The paperclip is back: follows your mouse, hands out tips from the Omarchy manual, and tells you when your agent is done | [jankeesvw.clippy](https://plugins.omarchy.org/plugin.html?id=jankeesvw.clippy) |
+| 19 | [Framework Desktop RGB](https://github.com/jankeesvw/omarchy-framework-desktop-rgb) | A colour wheel for the fan LEDs of the Framework Desktop, or let them follow your theme | [jankeesvw.framework-desktop-rgb](https://plugins.omarchy.org/plugin.html?id=jankeesvw.framework-desktop-rgb) |
 
 ### Omarchy themes
 
