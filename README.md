@@ -5,29 +5,26 @@ Bigger things than a bar widget: full apps that wear your Omarchy theme.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jankeesvw/omarchy-meeting-recorder"><img src="media/meeting-recorder-framed.webp" alt="Meeting Recorder: chapters on the left, the transcript on the right, a waveform player above it"></a>
+<a href="https://github.com/jankeesvw/omarchy-meeting-recorder"><img src="media/meeting-recorder-framed.webp" width="100%" alt="Meeting Recorder: chapters on the left, the transcript on the right, a waveform player above it"></a>
 
 **[Meeting Recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)**
 
 Records your mic and the computer audio as two tracks, and transcribes the meeting on your own machine, with speakers, chapters and a player.
-
-```bash
-yay -S omarchy-meeting-recorder
-```
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jankeesvw/omarchy-sequencer"><img src="media/sequencer-framed.webp" alt="Sequencer playing: the playhead runs across the grid and every note flashes as it plays"></a>
+<a href="https://github.com/jankeesvw/omarchy-sequencer"><img src="media/sequencer-framed.webp" width="100%" alt="Sequencer playing: the playhead runs across the grid and every note flashes as it plays"></a>
 
 **[Sequencer](https://github.com/jankeesvw/omarchy-sequencer)**
 
 A step sequencer with a TR-808 kit, 90s rave sounds, effects on every track, free sound packs and recording from your microphone.
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/jankeesvw/omarchy-sequencer/main/install.sh | bash
-```
 </td>
 </tr>
 </table>
+
+```bash
+yay -S omarchy-meeting-recorder
+curl -fsSL https://raw.githubusercontent.com/jankeesvw/omarchy-sequencer/main/install.sh | bash
+```
 
 ### Omarchy plugins
 
