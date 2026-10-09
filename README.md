@@ -5,7 +5,7 @@ Bigger things than a bar widget: full apps that wear your Omarchy theme.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jankeesvw/omarchy-meeting-recorder"><img src="media/meeting-recorder.webp" alt="Meeting Recorder: chapters on the left, the transcript on the right, a waveform player above it"></a>
+<a href="https://github.com/jankeesvw/omarchy-meeting-recorder"><img src="media/meeting-recorder-framed.webp" alt="Meeting Recorder: chapters on the left, the transcript on the right, a waveform player above it"></a>
 
 **[Meeting Recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)**
 
@@ -16,7 +16,7 @@ yay -S omarchy-meeting-recorder
 ```
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jankeesvw/omarchy-sequencer"><img src="media/sequencer.webp" alt="Sequencer playing: the playhead runs across the grid and every note flashes as it plays"></a>
+<a href="https://github.com/jankeesvw/omarchy-sequencer"><img src="media/sequencer-framed.webp" alt="Sequencer playing: the playhead runs across the grid and every note flashes as it plays"></a>
 
 **[Sequencer](https://github.com/jankeesvw/omarchy-sequencer)**
 
