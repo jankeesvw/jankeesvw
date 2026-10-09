@@ -22,7 +22,7 @@ A step sequencer with a TR-808 kit, 90s rave sounds, effects on every track, fre
 </table>
 
 ```bash
-yay -S omarchy-meeting-recorder
+yay -S omarchy-meeting-recorder-bin
 curl -fsSL https://raw.githubusercontent.com/jankeesvw/omarchy-sequencer/main/install.sh | bash
 ```
 
